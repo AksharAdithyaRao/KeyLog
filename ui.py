@@ -3,7 +3,6 @@ from tkinter import *
 from tkinter import messagebox
 from tkinter.font import Font
 import subprocess
-import os
 
 #configuring root window
 root = tk.Tk()
